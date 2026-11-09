@@ -1,0 +1,4 @@
+first_name,last_name,email,company,headline,linkedin_url,connections,source
+Synthetic,Person1,person1@example.com,Example Alpha,Head of Sales | Builder | Speaker,https://www.linkedin.com/in/synthetic-person-1,500+,Chrome extension export
+Synthetic,Person2,person2@example.com,Example Beta,VP Growth at Example Beta,https://www.linkedin.com/in/synthetic-person-2,1200,scraped batch 7
+Synthetic,Person3,person3@example.com,Example Gamma,Founder,https://www.linkedin.com/in/synthetic-person-3,300,Sales Nav list

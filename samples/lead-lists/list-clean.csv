@@ -1,0 +1,4 @@
+first_name,last_name,email,company,job_title,source,acquired_on,opt_out
+Synthetic,Person4,person4@example.com,Example Delta,Head of Sales,Licensed file from Vendor A,2026-09-01,no
+Synthetic,Person5,person5@example.com,Example Epsilon,VP Growth,Webinar sign up on our own site,2026-10-14,no
+Synthetic,Person6,person6@example.com,Example Zeta,Founder,Licensed file from Vendor A,2026-09-01,yes

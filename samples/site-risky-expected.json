@@ -1,0 +1,16 @@
+{
+  "note": "SYNTHETIC SAMPLE. The planted problems tests/check_kit.py expects the scanner to report as high severity.",
+  "must_find_high": [
+    {"file": "index.html", "check": 3},
+    {"file": "index.html", "check": 4},
+    {"file": "index.html", "check": 5},
+    {"file": "index.html", "check": 6},
+    {"file": "index.html", "check": 7},
+    {"file": "index.html", "check": 1},
+    {"file": "compare.html", "check": 1},
+    {"file": "compare.html", "check": 2},
+    {"file": "compare.html", "check": 6},
+    {"file": "compare.html", "check": 7},
+    {"file": "linkedin-outreach.html", "check": 2}
+  ]
+}

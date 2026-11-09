@@ -1,0 +1,31 @@
+check,group,title,priority,status,evidence,owner,due
+1,Website and marketing pages,Comparison copy that names LinkedIn,Fix first,fail,SYNTHETIC EXAMPLE: compare.html names LinkedIn in a table,Example Founder,2026-11-16
+2,Website and marketing pages,LinkedIn in your domain or page addresses,Fix first,fail,SYNTHETIC EXAMPLE: page address contains the name,Example Founder,2026-11-16
+3,Website and marketing pages,"LinkedIn in your business, product, handle or email names",Fix first,partial,"SYNTHETIC EXAMPLE: page title fixed, shared inbox not yet",Example Founder,2026-11-16
+4,Website and marketing pages,LinkedIn logos,Fix first,fail,SYNTHETIC EXAMPLE: logo on the home page,Example Designer,2026-11-12
+5,Website and marketing pages,"Partner, endorsed or certified claims",Fix first,fail,SYNTHETIC EXAMPLE: partner claim with no written consent,Example Founder,2026-11-12
+6,Website and marketing pages,Copy saying your data comes from LinkedIn,Fix first,fail,SYNTHETIC EXAMPLE: copy says data comes from LinkedIn,Example Founder,2026-11-12
+7,Website and marketing pages,Copy promising safe automation or beaten limits,Fix first,fail,SYNTHETIC EXAMPLE: undetectable claim on home page,Example Founder,2026-11-12
+8,Website and marketing pages,"Copying LinkedIn's look, or showing its screens",Fix soon,pass,SYNTHETIC EXAMPLE: reviewed by eye on 2026-11-09,Example Designer,
+9,Website and marketing pages,Deep links into LinkedIn,Fix soon,partial,SYNTHETIC EXAMPLE: one search link still on home page,Example Developer,2026-11-14
+10,Website and marketing pages,Hidden mentions,Fix soon,partial,SYNTHETIC EXAMPLE: meta tags and comments still to clean,Example Developer,2026-11-14
+11,Data vendors and lead lists,A written map of every data source,Fix first,partial,"SYNTHETIC EXAMPLE: map started, 2 sources unknown",Example Ops,2026-11-20
+12,Data vendors and lead lists,A written answer on where each vendor's data comes from,Fix first,fail,SYNTHETIC EXAMPLE: Vendor B gave an evasive reply,Example Ops,2026-11-20
+13,Data vendors and lead lists,Field fingerprints in your lists,Fix first,fail,SYNTHETIC EXAMPLE: list-risky.csv shows high signals,Example Ops,2026-11-20
+14,Data vendors and lead lists,What your vendor says about itself,Fix first,fail,SYNTHETIC EXAMPLE: Vendor B offers a prospecting extension,Example Ops,2026-11-20
+15,Data vendors and lead lists,Contract terms that back up the answers,Fix soon,partial,"SYNTHETIC EXAMPLE: Vendor A signed, Vendor B has not",Example Founder,2026-11-30
+16,Data vendors and lead lists,Where each record came from and when,Fix soon,partial,"SYNTHETIC EXAMPLE: source field added, older records missing",Example Ops,2026-11-30
+17,Data vendors and lead lists,Data broker registration,Fix soon,pass,SYNTHETIC EXAMPLE: Vendor A found in the registry,Example Ops,
+18,Data vendors and lead lists,Your right to contact the people on the list,Fix soon,partial,"SYNTHETIC EXAMPLE: US reviewed, EU not yet",Example Founder,2026-12-05
+19,Data vendors and lead lists,Opt outs that reach every list,Fix first,pass,SYNTHETIC EXAMPLE: test opt out survived a new import,Example Ops,
+20,Data vendors and lead lists,Reselling or showing LinkedIn data to your customers,Fix first,na,SYNTHETIC EXAMPLE: product shows customers no contact data,Example Founder,
+21,Outreach and automation,A list of every tool that touches LinkedIn,Fix first,partial,SYNTHETIC EXAMPLE: 3 of 5 laptops listed,Example Ops,2026-11-14
+22,Outreach and automation,Automated invitations and messages,Fix first,fail,SYNTHETIC EXAMPLE: sequencer still sends invitations,Example Founder,2026-11-12
+23,Outreach and automation,"Automated likes, comments and engagement swaps",Fix first,pass,SYNTHETIC EXAMPLE: no engagement tools found,Example Ops,
+24,Outreach and automation,Shared logins and copied cookies,Fix first,fail,SYNTHETIC EXAMPLE: outreach tool holds a session cookie,Example Founder,2026-11-12
+25,Outreach and automation,AI personas and fake profiles,Fix first,pass,SYNTHETIC EXAMPLE: every profile is a named employee,Example Founder,
+26,Outreach and automation,"One person, one account",Fix first,pass,"SYNTHETIC EXAMPLE: one account each, confirmed by the team",Example Founder,
+27,Outreach and automation,Working around limits,Fix first,fail,SYNTHETIC EXAMPLE: tool has a warm up and delay feature on,Example Founder,2026-11-12
+28,Outreach and automation,Invitations people actually want,Fix soon,partial,"SYNTHETIC EXAMPLE: pitch removed from invitations, pending pile large",Example Sales,2026-11-20
+29,Outreach and automation,What your own product does on LinkedIn,Fix first,fail,SYNTHETIC EXAMPLE: onboarding asks customers for a cookie,Example Developer,2026-11-30
+30,Outreach and automation,Cold email rules when your agents leave LinkedIn,Fix soon,pass,SYNTHETIC EXAMPLE: 3 campaigns reviewed against the FTC guide,Example Sales,
